@@ -2,6 +2,9 @@ Scaffolds And Widgets:
 
 -A simple Flutter project demonstrating the usage of scaffolds and widgets to create a basic mobile application.
 
+ScreenShot:
+![App Screenshot](https://github.com/priyanshusharma44/5-Flutter_Widgets-Scaffold/blob/main/Screenshot%202023-12-16%20135154.png)
+
 Overview:
 -This Flutter project provides a minimalistic mobile app that showcases the fundamental concepts of scaffolds and widgets. The code is structured in a way that is easy to understand, making it suitable for beginners who are learning Flutter development.
 
@@ -27,9 +30,6 @@ bash
 Copy code
 git clone [https://github.com/your-username/scaffolds-and-widgets](https://github.com/priyanshusharma44/5-Flutter_Widgets-Scaffold/).git
 Navigate to the project directory:
-
-ScreenShots:
-
 
 bash
 Copy code
