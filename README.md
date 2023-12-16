@@ -1,17 +1,22 @@
-Scaffolds And Widgets
-A simple Flutter project demonstrating the usage of scaffolds and widgets to create a basic mobile application.
+Scaffolds And Widgets:
 
-Overview
-This Flutter project provides a minimalistic mobile app that showcases the fundamental concepts of scaffolds and widgets. The code is structured in a way that is easy to understand, making it suitable for beginners who are learning Flutter development.
+-A simple Flutter project demonstrating the usage of scaffolds and widgets to create a basic mobile application.
 
-Features
-Scaffold Structure: The app employs the scaffold structure with an app bar, body, and a floating action button.
+Overview:
+-This Flutter project provides a minimalistic mobile app that showcases the fundamental concepts of scaffolds and widgets. The code is structured in a way that is easy to understand, making it suitable for beginners who are learning Flutter development.
 
-App Bar: The app bar includes a centered title, enhancing the overall visual appeal.
+Features:
+Scaffold Structure: 
+-The app employs the scaffold structure with an app bar, body, and a floating action button.
 
-Body Content: The body of the app contains a centered text widget with a custom font size.
+App Bar:
+-The app bar includes a centered title, enhancing the overall visual appeal.
 
-Floating Action Button: A floating action button is added with a customized label, style, and a simple print statement on press.
+Body Content:
+-The body of the app contains a centered text widget with a custom font size.
+
+Floating Action Button:
+-A floating action button is added with a customized label, style, and a simple print statement on press.
 
 Getting Started
 Ensure you have Flutter installed. If not, follow the Flutter installation guide.
@@ -22,6 +27,9 @@ bash
 Copy code
 git clone [https://github.com/your-username/scaffolds-and-widgets](https://github.com/priyanshusharma44/5-Flutter_Widgets-Scaffold/).git
 Navigate to the project directory:
+
+ScreenShots:
+
 
 bash
 Copy code
