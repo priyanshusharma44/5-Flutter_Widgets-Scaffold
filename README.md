@@ -2,7 +2,7 @@
 
 -A simple Flutter project demonstrating the usage of scaffolds and widgets to create a basic mobile application.
 
-# ScreenShot:
+## ScreenShot:
 ![App Screenshot](https://github.com/priyanshusharma44/5-Flutter_Widgets-Scaffold/blob/main/Screenshot%202023-12-16%20135154.png)
 
 ## Overview:
